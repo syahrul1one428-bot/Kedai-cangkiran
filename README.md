@@ -1,3 +1,3 @@
 ## Kedai-cangkiran
 Foto tahu
-![](foto/Tahu.png)
+![thu](foto/Tahu.png)
