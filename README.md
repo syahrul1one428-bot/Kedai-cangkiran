@@ -1,2 +1,3 @@
 # Kedai-cangkiran
-Foto meu
+Foto meu tahu gjerot
+![tahu gjerot](foto/20250916_130142.png)
