@@ -1,3 +1,3 @@
-##Kedai-cangkiran
-Foto meu tahu gjerot
+## Kedai-cangkiran
+Foto tahu
 ![tahu](foto/Tahu.png)
